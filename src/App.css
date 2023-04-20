@@ -1,0 +1,19 @@
+*::selection {
+    background-color: #393F56 !important;
+    color: white !important;
+}
+
+body {
+    color: white !important;
+    background-color: #fafafa !important;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.main .title {
+    font-size: 25px;
+    text-align: center;
+}
